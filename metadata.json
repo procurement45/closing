@@ -1,0 +1,6 @@
+{
+  "name": "PO Open Monthly Report",
+  "description": "Aplikasi pemantauan dan pelaporan bulanan Purchase Order (PO) Open terintegrasi dengan Google Sheets, Apps Script, Email, dan Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
